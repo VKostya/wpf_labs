@@ -1,0 +1,16 @@
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\bin\Debug\UserForms.exe.config
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\bin\Debug\UserForms.exe
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\bin\Debug\UserForms.pdb
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.csproj.AssemblyReference.cache
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.csproj.SuggestedBindingRedirects.cache
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\MainWindow.g.cs
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\App.g.cs
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\MainWindow.baml
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.g.resources
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.exe
+D:\8 семестр\создание ПО\projects\UserForms\UserForms\obj\Debug\UserForms.pdb

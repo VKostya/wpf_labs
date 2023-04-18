@@ -1,0 +1,35 @@
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\bin\Debug\Calc_new.exe.config
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\bin\Debug\Calc_new.exe
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\bin\Debug\Calc_new.pdb
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.AssemblyReference.cache
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.SuggestedBindingRedirects.cache
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\MainWindow.g.cs
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\App.g.cs
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new_MarkupCompile.cache
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new_MarkupCompile.lref
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\MainWindow.baml
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.g.resources
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.Properties.Resources.resources
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.GenerateResource.cache
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.CoreCompileInputs.cache
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.exe
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\Calc_new.pdb
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\DialogEquation.g.cs
+D:\8 семестр\создание ПО\projects\Calc_new\Calc_new\obj\Debug\DialogEquation.baml
+F:\учеба\4 курс\linux\Calc_new\Calc_new\bin\Debug\Calc_new.exe.config
+F:\учеба\4 курс\linux\Calc_new\Calc_new\bin\Debug\Calc_new.exe
+F:\учеба\4 курс\linux\Calc_new\Calc_new\bin\Debug\Calc_new.pdb
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.csprojAssemblyReference.cache
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\DialogEquation.g.cs
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\MainWindow.g.cs
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\App.g.cs
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new_MarkupCompile.cache
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new_MarkupCompile.lref
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\DialogEquation.baml
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\MainWindow.baml
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.g.resources
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.Properties.Resources.resources
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.GenerateResource.cache
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.csproj.CoreCompileInputs.cache
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.exe
+F:\учеба\4 курс\linux\Calc_new\Calc_new\obj\Debug\Calc_new.pdb
